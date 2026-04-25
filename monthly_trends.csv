@@ -1,0 +1,72 @@
+year_month,complaint_category,complaint_count
+2020-11,Noise,57079
+2020-11,Other,53665
+2020-11,Streets & Vehicles,45781
+2020-11,Housing,37888
+2020-11,Sanitation,5910
+2020-11,Water/Sewer,5837
+2020-12,Housing,53337
+2020-12,Other,53079
+2020-12,Streets & Vehicles,45545
+2020-12,Noise,43709
+2020-12,Sanitation,5006
+2020-12,Water/Sewer,4895
+2021-01,Housing,51050
+2021-01,Other,47194
+2021-01,Streets & Vehicles,46317
+2021-01,Noise,42803
+2021-01,Sanitation,6625
+2021-01,Water/Sewer,5846
+2021-02,Other,47792
+2021-02,Housing,44373
+2021-02,Streets & Vehicles,44335
+2021-02,Noise,33852
+2021-02,Water/Sewer,4306
+2021-02,Sanitation,2176
+2021-03,Streets & Vehicles,57421
+2021-03,Other,52368
+2021-03,Noise,51512
+2021-03,Housing,35459
+2021-03,Sanitation,13227
+2021-03,Water/Sewer,5983
+2021-04,Noise,61341
+2021-04,Streets & Vehicles,56897
+2021-04,Other,52681
+2021-04,Housing,26208
+2021-04,Sanitation,7938
+2021-04,Water/Sewer,5038
+2021-05,Noise,86900
+2021-05,Streets & Vehicles,60734
+2021-05,Other,58881
+2021-05,Housing,21356
+2021-05,Sanitation,8478
+2021-05,Water/Sewer,5518
+2021-06,Noise,89991
+2021-06,Other,73744
+2021-06,Streets & Vehicles,61593
+2021-06,Housing,19965
+2021-06,Water/Sewer,10715
+2021-06,Sanitation,9926
+2021-07,Noise,85757
+2021-07,Other,75636
+2021-07,Streets & Vehicles,56921
+2021-07,Housing,12985
+2021-07,Water/Sewer,12307
+2021-07,Sanitation,10561
+2021-08,Noise,73603
+2021-08,Other,64594
+2021-08,Streets & Vehicles,57216
+2021-08,Housing,11408
+2021-08,Water/Sewer,11358
+2021-08,Sanitation,10226
+2021-09,Noise,83050
+2021-09,Other,77369
+2021-09,Streets & Vehicles,63520
+2021-09,Housing,15885
+2021-09,Water/Sewer,15166
+2021-09,Sanitation,7476
+2021-10,Other,92445
+2021-10,Noise,67969
+2021-10,Streets & Vehicles,63942
+2021-10,Housing,20182
+2021-10,Water/Sewer,6323
